@@ -1,11 +1,11 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-hero-dark.svg">
-  <img alt="Syseiii: GitHub profile. Cinematic title card: a black hole whose accretion disk is drawn from 5 contributions, one particle per day." src="./assets/singularity-hero-light.svg" width="100%">
+  <img alt="Syseiii: GitHub profile. Halaman Singkat dari seluruh projek saya di hidup ini" src="./assets/singularity-hero-light.svg" width="100%">
 </picture>
 </p>
 
-<p align="center"><b>Syseiii</b><br><b>Nama Saya I Kadek Galih Sastra Dinata</b></p>
+<p align="center"><b>Syseiii</b><br><b>Saya, I Kadek Galih Sastra Dinata.</b><br>Saya siswa kelas XI RPL/PPLG dari SMK Negeri 1 Mas Ubud.</p>
 
 
 #### Telemetry
