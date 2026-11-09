@@ -1,25 +1,19 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-hero-dark.svg">
-  <img alt="Alex Rivera: Systems engineer. I build storage engines and the tools around them. Cinematic title card: a black hole whose accretion disk is drawn from 1,717 contributions, one particle per day." src="./assets/singularity-hero-light.svg" width="100%">
+  <img alt="Syseiii: GitHub profile. Cinematic title card: a black hole whose accretion disk is drawn from 5 contributions, one particle per day." src="./assets/singularity-hero-light.svg" width="100%">
 </picture>
 </p>
 
-<p align="center"><b>Alex Rivera</b> · Systems engineer. I build storage engines and the tools around them.</p>
-<p align="center"><a href="https://example.com/"><img src="./assets/links/website.svg" alt="example.com" height="28"></a> <a href="mailto:alex@example.com"><img src="./assets/links/email.svg" alt="alex@example.com" height="28"></a></p>
+<p align="center"><b>Syseiii</b></p>
 
-<p align="center"><b>Support my work</b><br><a href="https://github.com/sponsors/sample-user"><img src="./assets/links/githubsponsors.svg" alt="GitHub Sponsors" height="28"></a></p>
-
-> **Mission brief.** I work on the boring, load-bearing parts of software — storage, build systems, and the protocols in between. Lately that means **tidewater**, a time-series store that runs on hardware most databases would refuse to boot on.
->
-> **Current objective.** Writing a columnar compaction scheduler and a long post about why it was harder than expected.
 
 #### Telemetry
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-telemetry-dark.svg">
-  <img alt="Mission telemetry for Horizon XII: 12 years on GitHub, 1,717 contributions in the last 12 months, 239 active days, longest streak 13 days, 3,673 stars, 1,830 followers." src="./assets/singularity-telemetry-light.svg" width="100%">
+  <img alt="Mission telemetry for Horizon III: 3 years on GitHub, 5 contributions in the last 12 months, 1 active days, longest streak 1 days, 0 stars, 1 followers." src="./assets/singularity-telemetry-light.svg" width="100%">
 </picture>
 </p>
 
@@ -37,14 +31,7 @@
 
 #### Flight log
 
-- `MSN-01` **[tidewater](https://github.com/sample-user/tidewater)** · Streaming time-series store for sensor fleets. Append-only, compressed, queryable at the edge.  
-  <sub>Rust · ★ 2.1k</sub>
-- `MSN-02` **[loom-ui](https://github.com/sample-user/loom-ui)** · Headless component primitives with typed state machines and zero runtime CSS.  
-  <sub>TypeScript · ★ 868</sub>
-- `MSN-03` **[kiln](https://github.com/sample-user/kiln)** · Reproducible build cache that fits in a single static binary.  
-  <sub>Go · ★ 412</sub>
-- `MSN-04` **[fieldnotes](https://github.com/sample-user/fieldnotes)** · Essays and working notes on distributed systems, written in public.  
-  <sub>MDX · ★ 157</sub>
+- `MSN-01` **[RY-Bot](https://github.com/Syseiea/RY-Bot)** · RY Bot adalah discord bot yang dibuat dengan discord js dan node js  
 
 <p align="center">
 <picture>
