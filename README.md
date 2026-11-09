@@ -5,7 +5,7 @@
 </picture>
 </p>
 
-<p align="center"><b>Syseiii</b></p>
+<p align="center"><b>Syseiii</b><br><b>Nama Saya I Kadek Galih Sastra Dinata</b></p>
 
 
 #### Telemetry
