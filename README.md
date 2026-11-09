@@ -29,9 +29,6 @@
 
 </details>
 
-#### Flight log
-
-- `MSN-01` **[RY-Bot](https://github.com/Syseiea/RY-Bot)** · RY Bot adalah discord bot yang dibuat dengan discord js dan node js  
 
 <p align="center">
 <picture>
