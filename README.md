@@ -1,21 +1,54 @@
-<h1 align="center">Hi 👋, I'm Syseiea</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-
-- 🔭 I’m currently working on **nothing**
-
-- 🌱 I’m currently learning **PHP, JAVA, PY and any else**
-
-- 👯 I’m looking to collaborate on **nothing**
-
-- 🤝 I’m looking for help with **nothing**
-
-- 📫 How to reach me: **ikadekgalihsastradinata@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kalih2._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalih2._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/purs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="purs1" height="30" width="40" /></a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-hero-dark.svg">
+  <img alt="Alex Rivera: Systems engineer. I build storage engines and the tools around them. Cinematic title card: a black hole whose accretion disk is drawn from 1,717 contributions, one particle per day." src="./assets/singularity-hero-light.svg" width="100%">
+</picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center"><b>Alex Rivera</b> · Systems engineer. I build storage engines and the tools around them.</p>
+<p align="center"><a href="https://example.com/"><img src="./assets/links/website.svg" alt="example.com" height="28"></a> <a href="mailto:alex@example.com"><img src="./assets/links/email.svg" alt="alex@example.com" height="28"></a></p>
+
+<p align="center"><b>Support my work</b><br><a href="https://github.com/sponsors/sample-user"><img src="./assets/links/githubsponsors.svg" alt="GitHub Sponsors" height="28"></a></p>
+
+> **Mission brief.** I work on the boring, load-bearing parts of software — storage, build systems, and the protocols in between. Lately that means **tidewater**, a time-series store that runs on hardware most databases would refuse to boot on.
+>
+> **Current objective.** Writing a columnar compaction scheduler and a long post about why it was harder than expected.
+
+#### Telemetry
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-telemetry-dark.svg">
+  <img alt="Mission telemetry for Horizon XII: 12 years on GitHub, 1,717 contributions in the last 12 months, 239 active days, longest streak 13 days, 3,673 stars, 1,830 followers." src="./assets/singularity-telemetry-light.svg" width="100%">
+</picture>
+</p>
+
+<details>
+<summary><sub>Reading the instruments</sub></summary>
+
+- **Accretion disk:** one particle per day of the last year; brighter and closer to the hole means a busier day. Inner rings orbit faster, as they would around a real black hole.
+- **Orbit:** contributions per month, plotted as a closed trajectory; the beacon marks the busiest month.
+- **Spectral composition:** language share by bytes across public repositories.
+- **Light theme:** rendered as a photographic negative, the way astronomical survey plates were printed.
+
+<sub>Artwork: original animated SVG, generated by README Templates · template: Singularity. Motion stops if your system asks for reduced motion.</sub>
+
+</details>
+
+#### Flight log
+
+- `MSN-01` **[tidewater](https://github.com/sample-user/tidewater)** · Streaming time-series store for sensor fleets. Append-only, compressed, queryable at the edge.  
+  <sub>Rust · ★ 2.1k</sub>
+- `MSN-02` **[loom-ui](https://github.com/sample-user/loom-ui)** · Headless component primitives with typed state machines and zero runtime CSS.  
+  <sub>TypeScript · ★ 868</sub>
+- `MSN-03` **[kiln](https://github.com/sample-user/kiln)** · Reproducible build cache that fits in a single static binary.  
+  <sub>Go · ★ 412</sub>
+- `MSN-04` **[fieldnotes](https://github.com/sample-user/fieldnotes)** · Essays and working notes on distributed systems, written in public.  
+  <sub>MDX · ★ 157</sub>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-end-dark.svg">
+  <img alt="End of transmission. See you on the other side." src="./assets/singularity-end-light.svg" width="100%">
+</picture>
+</p>
